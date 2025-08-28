@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yogesh Patil</h1>
 <p align="center">🎓 MSc Statistics Graduate | 📊 Data Analyst | 📈 Business Analyst</p>
 
----
+
 
 ## 🌟 About Me  
 
@@ -11,7 +11,7 @@
 - 🌱 Currently sharpening skills in **data visualization, SQL, Excel, Power BI, Tableau, predictive analytics, AWS, and PySpark**.  
 - 💡 Open to collaborating on impactful projects in **business intelligence, reporting, and analytics**.  
 
----
+
 
 ## 🔧 Languages and Tools  
 
@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
 </p>
 
----
+
 ## 📬 Connect with Me  
 
 <p align="left">

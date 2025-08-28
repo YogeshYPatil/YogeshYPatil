@@ -20,5 +20,5 @@
 ---
 
 ## 🔹 Contact
-- Email: [patilyogesh0317@gmail.com](mailto:patilyogesh0317@gmail.com)  
+- Email: [patilyogesh0317@gmail.com](mailto:yogeshpatil.stats@gmail.com)  
 - GitHub: [https://github.com/YogeshYPatil](https://github.com/YogeshYPatil)

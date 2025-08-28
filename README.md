@@ -1,38 +1,40 @@
-
-<h1 align="center">Hi! I'm Yogesh Patil 👋</h1>
-<p align="center">MSc Statistics Graduate | Data Analyst | Exploring ML & Data Science</p>
+<h1 align="center">Hi 👋, I'm Yogesh Patil</h1>
+<p align="center">🎓 MSc Statistics Graduate | 📊 Data Analyst | 🤖 Exploring ML & Data Science</p>
 
 ---
 
-## 🔹 Skills
+## 🌟 About Me  
+
+- 📈 Passionate about turning data into actionable insights.  
+- 🔎 Exploring applications of Machine Learning & AI in real-world scenarios.  
+- 🌱 Currently sharpening skills in data visualization, SQL, and predictive modeling.  
+- 💡 Open to collaborating on impactful projects in analytics, ML, and AI.  
+
+---
+
+## 🔧 Languages and Tools  
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="50" height="50"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" height="40"/>
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power-BI&logoColor=black" alt="Power BI" height="40"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon-AWS&logoColor=white" alt="AWS" height="40"/>
-  <img src="https://img.shields.io/badge/PySpark-FF6F00?style=for-the-badge&logo=Apache-Spark&logoColor=white" alt="PySpark" height="40"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/PySpark-FF6F00?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
 </p>
 
 ---
 
-## 🔹 About Me
-- Passionate about turning data into actionable insights.  
-- Exploring ML & AI applications in real-world scenarios.  
-- Always learning and sharing knowledge with the community.  
+## 📬 Connect with Me  
+
+- 📧 Email: **yogeshpatil.stats@gmail.com**  
+- 💼 [LinkedIn](https://www.linkedin.com/in/yogeshpatilstats/)  
+- 💻 [GitHub](https://github.com/YogeshYPatil)  
 
 ---
-## 🔹 Contact
 
-<p align="left">
-  <a href="mailto:yogeshpatil.stats@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" width="40" height="40"/>
-  </a>
-  <a href="https://www.linkedin.com/in/yogeshpatilstats/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/YogeshYPatil" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  </a>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-3f1d-4d09-b40e-7734a12b9d39.gif" width="400"/>
 </p>

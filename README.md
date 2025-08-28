@@ -23,7 +23,16 @@
 - Always learning and sharing knowledge with the community.  
 
 ---
-
 ## 🔹 Contact
-- Email: [yogeshpatil.stats@gmail.com](mailto:yogeshpatil.stats@gmail.com)  
-- GitHub: [https://github.com/YogeshYPatil](https://github.com/YogeshYPatil)
+
+<p align="left">
+  <a href="mailto:yogeshpatil.stats@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" width="40" height="40"/>
+  </a>
+  <a href="https://www.linkedin.com/in/yogeshpatilstats/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/YogeshYPatil" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  </a>
+</p>

@@ -29,12 +29,14 @@
 
 ## 📬 Connect with Me  
 
-- 📧 Email: **yogeshpatil.stats@gmail.com**  
-- 💼 [LinkedIn](https://www.linkedin.com/in/yogeshpatilstats/)  
-- 💻 [GitHub](https://github.com/YogeshYPatil)  
-
----
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-3f1d-4d09-b40e-7734a12b9d39.gif" width="400"/>
+<p align="left">
+  <a href="mailto:yogeshpatil.stats@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/yogeshpatilstats/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/YogeshYPatil" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>

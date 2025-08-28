@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="profile.jpeg" alt="Yogesh Patil" width="150" height="150"/>
-</p>
 
 <h1 align="center">Hi! I'm Yogesh Patil 👋</h1>
 <p align="center">MSc Statistics Graduate | Data Analyst | Exploring ML & Data Science</p>

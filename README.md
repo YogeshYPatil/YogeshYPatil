@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi! I'm Yogesh Patil 👋
 
-<!--
-**YogeshYPatil/YogeshYPatil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MSc Statistics Graduate | Data Analyst | Python, R, SQL, Power BI, AWS, PySpark Enthusiast | Exploring Machine Learning & Data Science**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔹 Skills
+- **Programming & Data Analysis:** Python, R, SQL  
+- **Data Visualization & BI:** Power BI, Matplotlib, Seaborn  
+- **Big Data & Cloud:** AWS, PySpark  
+- **Machine Learning & Data Science:** Scikit-learn, TensorFlow, PyTorch  
+
+---
+
+## 🔹 About Me
+- Passionate about turning data into actionable insights.  
+- Exploring ML & AI applications in real-world scenarios.  
+- Always learning and sharing knowledge with the community.  
+
+---
+
+## 🔹 Contact
+- Email: [patilyogesh0317@gmail.com](mailto:patilyogesh0317@gmail.com)  
+- GitHub: [https://github.com/YogeshYPatil](https://github.com/YogeshYPatil)

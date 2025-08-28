@@ -5,10 +5,11 @@
 
 ## 🌟 About Me  
 
-- 📈 Passionate about turning data into actionable insights.  
-- 🔎 Exploring applications of Machine Learning & AI in real-world scenarios.  
-- 🌱 Currently sharpening skills in data visualization, SQL, and predictive modeling.  
-- 💡 Open to collaborating on impactful projects in analytics, ML, and AI.  
+- 📊 Preparing for a career as a **Business Analyst** and **Data Analyst** with strong foundations in statistics and data analytics.  
+- 🐍 Proficient in **Python** for data analysis and predictive modeling.  
+- 📈 Passionate about solving real-world problems by turning data into actionable insights.  
+- 🌱 Currently sharpening skills in **data visualization, SQL, Excel, Power BI, Tableau, predictive analytics, AWS, and PySpark**.  
+- 💡 Open to collaborating on impactful projects in **business intelligence, reporting, and analytics**.  
 
 ---
 

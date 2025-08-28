@@ -32,14 +32,13 @@
 </p>
 
 ---
-
 ## 📬 Connect with Me  
 
 <p align="left">
   <a href="mailto:yogeshpatil.stats@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://www.linkedin.com/in/yogeshpatilstats/" target="_blank">
+  <a href="https://www.linkedin.com/in/yogesh-patil-1073ba201" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/YogeshYPatil" target="_blank">

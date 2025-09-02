@@ -42,6 +42,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" width="110" alt="Tableau"/>
   <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="100" alt="Power BI"/>
   </p>
+  
 ---
 
 ## 📬 Connect with Me  

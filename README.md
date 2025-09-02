@@ -17,6 +17,13 @@
 
 ---
 
+## 🖼️ Thumbnail  
+<p align="center">
+  <img src="https://github.com/your-username/your-repo-name/blob/main/thumbnail.png" alt="Thumbnail" width="500">
+</p>  
+
+---
+
 ## 🔧 Languages and Tools  
 
 <p align="center">
@@ -49,6 +56,18 @@
 
 ---
 
+## ☕ Support Me  
+
+If you like my work, consider buying me a coffee!  
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/yourusername" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="Buy Me A Coffee" />
+  </a>
+</p>
+
+---
+
 ## 📬 Connect with Me  
 
 <p align="center">
@@ -62,8 +81,6 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
-
----
 
 <p align="center">
   <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif"/>

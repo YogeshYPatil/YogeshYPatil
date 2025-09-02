@@ -45,19 +45,22 @@
 ## 📬 Connect with Me  
 
 <p align="center">
+  <!-- Gmail -->
   <a href="mailto:yogeshpatil.stats@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" width="40" alt="Gmail"/>
   </a>
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/yogesh-patil-1073ba201" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" alt="LinkedIn"/>
   </a>
+  <!-- GitHub -->
   <a href="https://github.com/YogeshYPatil" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" width="40" alt="GitHub"/>
   </a>
-</p>
-
-<p align="center">
-  <img alt="Coding" width="400" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif"/>
+  <!-- HackerRank -->
+  <a href="https://www.hackerrank.com/profile/yogpatil1703" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/hackerrank.png" width="40" alt="HackerRank"/>
+  </a>
 </p>
 
 ---

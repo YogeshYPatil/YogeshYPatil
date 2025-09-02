@@ -27,8 +27,40 @@
 ## 🔧 Languages and Tools  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,matplotlib,plotly,scikit-learn,torch,tensorflow,r,mysql,aws,git,github,anaconda,excel,tableau,powerbi&perline=10" />
+  <!-- Python -->
+  <img src="https://skillicons.dev/icons?i=python" width="40"/>
+  <!-- Numpy -->
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/numpy.svg" width="40"/>
+  <!-- Pandas -->
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pandas.svg" width="40"/>
+  <!-- Matplotlib -->
+  <img src="https://raw.githubusercontent.com/matplotlib/matplotlib/main/lib/matplotlib/mpl-data/logo2.svg" width="40"/>
+  <!-- Seaborn -->
+  <img src="https://raw.githubusercontent.com/mwaskom/seaborn-data/master/seaborn-logo.png" width="40"/>
+  <!-- PyTorch -->
+  <img src="https://skillicons.dev/icons?i=pytorch" width="40"/>
+  <!-- TensorFlow -->
+  <img src="https://skillicons.dev/icons?i=tensorflow" width="40"/>
+  <!-- R -->
+  <img src="https://skillicons.dev/icons?i=r" width="40"/>
+  <!-- MySQL -->
+  <img src="https://skillicons.dev/icons?i=mysql" width="40"/>
+  <!-- AWS -->
+  <img src="https://skillicons.dev/icons?i=aws" width="40"/>
+  <!-- Git -->
+  <img src="https://skillicons.dev/icons?i=git" width="40"/>
+  <!-- GitHub -->
+  <img src="https://skillicons.dev/icons?i=github" width="40"/>
+  <!-- Anaconda -->
+  <img src="https://skillicons.dev/icons?i=anaconda" width="40"/>
+  <!-- Excel -->
+  <img src="https://skillicons.dev/icons?i=excel" width="40"/>
+  <!-- Tableau -->
+  <img src="https://skillicons.dev/icons?i=tableau" width="40"/>
+  <!-- Power BI -->
+  <img src="https://skillicons.dev/icons?i=powerbi" width="40"/>
 </p>
+
 ---
 
 ## 🏆 GitHub Trophies  

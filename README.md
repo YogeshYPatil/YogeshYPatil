@@ -27,7 +27,7 @@
 ## 🔧 Languages and Tools  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,matplotlib,seaborn,pytorch,tensorflow,r,mysql,aws,sklearn,git,github,anaconda,excel,tableau,powerbi&perline=5" />
+  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,matplotlib,seaborn,pytorch,tensorflow,r,mysql,aws,sklearn,git,github,anaconda,excel,tableau,powerbi&perline=10" />
 </p>
 
 ---

@@ -36,7 +36,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="70" alt="R"/>
   <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" width="100" alt="MySQL"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="110" alt="AWS"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Excel_Logo.svg" width="80" alt="Excel"/>
+  <!-- Excel -->
+<img src="https://img.icons8.com/color/48/000000/ms-excel.png" width="50" alt="Excel"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" width="110" alt="Tableau"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Power_BI_logo.svg" width="100" alt="Power BI"/>
 </p>

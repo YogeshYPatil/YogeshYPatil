@@ -16,6 +16,7 @@
 - 💡 Open to collaborating on impactful projects in **business intelligence, reporting, and analytics**.  
 
 ---
+
 ## 🔧 Languages and Tools  
 
 <p align="center">

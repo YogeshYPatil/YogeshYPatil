@@ -1,93 +1,70 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>My GitHub Account</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      height: 100vh;
-      background-color: #f4f4f4;
-    }
-    .card {
-      width: 350px;
-      background: #fff;
-      border-radius: 12px;
-      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
-      overflow: hidden;
-      text-align: center;
-    }
-    .card img {
-      width: 100%;
-      height: 180px;
-      object-fit: cover;
-    }
-    .card h2 {
-      margin: 10px 0;
-      font-size: 22px;
-    }
-    .card p {
-      padding: 0 15px;
-      font-size: 14px;
-      color: #555;
-    }
-    .buttons {
-      margin: 15px 0;
-      display: flex;
-      justify-content: center;
-      gap: 10px;
-    }
-    .btn {
-      padding: 10px 15px;
-      border: none;
-      border-radius: 8px;
-      cursor: pointer;
-      font-size: 14px;
-      transition: 0.3s;
-    }
-    .visit-btn {
-      background: #24292e;
-      color: #fff;
-    }
-    .visit-btn:hover {
-      background: #000;
-    }
-    .copy-btn {
-      background: #0366d6;
-      color: #fff;
-    }
-    .copy-btn:hover {
-      background: #024a9c;
-    }
-  </style>
-</head>
-<body>
+<h1 align="center">Hi 👋, I'm Yogesh Patil</h1>
+<p align="center">🎓 MSc Statistics Graduate | 📊 Data Analyst | 📈 Business Analyst</p>
 
-  <div class="card">
-    <!-- Replace with your uploaded image -->
-    <img src="e2702848-3009-4417-877f-3dedb83644ef.png" alt="Thumbnail">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YogeshYPatil&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+</p>
 
-    <h2>My GitHub Account</h2>
-    <p>Explore my projects, contributions, and repositories on GitHub. Follow me for updates and new projects!</p>
+---
 
-    <div class="buttons">
-      <button class="btn visit-btn" onclick="window.open('https://github.com/your-username', '_blank')">Visit</button>
-      <button class="btn copy-btn" onclick="copyLink()">Copy Link</button>
-    </div>
-  </div>
+## 🌟 About Me  
 
-  <script>
-    function copyLink() {
-      const link = "https://github.com/your-username"; // change to your GitHub link
-      navigator.clipboard.writeText(link).then(() => {
-        alert("GitHub link copied!");
-      });
-    }
-  </script>
+- 📊 Aspiring **Data Analyst** & **Business Analyst** with strong foundations in **Statistics** and **Data Analytics**.  
+- 🐍 Skilled in **Python** for data analysis, visualization, and predictive modeling.  
+- 📈 Passionate about solving real-world problems by turning data into actionable insights.  
+- 🌱 Currently sharpening skills in **SQL, Excel, Power BI, Tableau, predictive analytics, AWS, and PySpark**.  
+- 💡 Open to collaborating on impactful projects in **business intelligence, reporting, and analytics**.  
 
-</body>
-</html>
+---
+
+## 🔧 Languages and Tools  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,r,mysql,aws,pytorch,tensorflow,sklearn,git,github,anaconda,flask,html,css,js,pandas,numpy,matplotlib,seaborn,excel,tableau,powerbi&perline=8" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YogeshYPatil&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+</p>
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YogeshYPatil&show_icons=true&theme=radical" alt="Yogesh's GitHub stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YogeshYPatil&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=YogeshYPatil&theme=radical&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 📬 Connect with Me  
+
+<p align="center">
+  <a href="mailto:yogeshpatil.stats@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/yogesh-patil-1073ba201" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/YogeshYPatil" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif"/>
+</p>

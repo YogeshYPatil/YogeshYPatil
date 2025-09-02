@@ -40,8 +40,7 @@
 <img src="https://img.icons8.com/color/48/000000/ms-excel.png" width="50" alt="Excel"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" width="110" alt="Tableau"/>
   <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="100" alt="Power BI"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Power_BI_logo.svg" width="100" alt="Power BI"/>
-</p>
+  </p>
 
 ## 📬 Connect with Me  
 

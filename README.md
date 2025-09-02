@@ -43,12 +43,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" width="50" alt="MySQL"/>
   <!-- AWS -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="50" alt="AWS"/>
-  <!-- Git -->
-  <img src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png" width="50" alt="Git"/>
-  <!-- GitHub -->
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="50" alt="GitHub"/>
-  <!-- Anaconda -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Anaconda_Logo.png" width="50" alt="Anaconda"/>
   <!-- Excel -->
   <img src="https://img.icons8.com/color/48/000000/ms-excel.png" width="50" alt="Excel"/>
   <!-- Tableau -->

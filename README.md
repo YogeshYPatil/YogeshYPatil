@@ -29,6 +29,8 @@
   <img src="https://img.icons8.com/color/48/000000/matplotlib.png" width="50" alt="Matplotlib"/>
  <!-- Seaborn -->
 <img src="https://github.com/YogeshYPatil/YogeshYPatil/blob/main/assets/images/seaborn-logo.png" width="50" alt="Seaborn"/>
+  <!-- Seaborn -->
+<img src="https://github.com/YogeshYPatil/YogeshYPatil/blob/main/assets/images/seaborn-logo.png" width="50" alt="Seaborn"/>
   <!-- Scikit-learn -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50" alt="Scikit-learn"/>
   <!-- PyTorch -->

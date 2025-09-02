@@ -23,42 +23,43 @@
 </p>  
 
 ---
-
 ## 🔧 Languages and Tools  
 
 <p align="center">
   <!-- Python -->
-  <img src="https://skillicons.dev/icons?i=python" width="40"/>
+  <img src="https://www.python.org/static/community_logos/python-logo.png" width="40" alt="Python"/>
   <!-- Numpy -->
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/numpy.svg" width="40"/>
+  <img src="https://numpy.org/images/logo.svg" width="40" alt="NumPy"/>
   <!-- Pandas -->
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pandas.svg" width="40"/>
+  <img src="https://pandas.pydata.org/static/img/pandas_white.svg" width="40" alt="Pandas"/>
   <!-- Matplotlib -->
-  <img src="https://raw.githubusercontent.com/matplotlib/matplotlib/main/lib/matplotlib/mpl-data/logo2.svg" width="40"/>
+  <img src="https://matplotlib.org/stable/_static/images/logo2.svg" width="40" alt="Matplotlib"/>
   <!-- Seaborn -->
-  <img src="https://raw.githubusercontent.com/mwaskom/seaborn-data/master/seaborn-logo.png" width="40"/>
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="40" alt="Seaborn"/>
+  <!-- Scikit-learn -->
+  <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="40" alt="Scikit-learn"/>
   <!-- PyTorch -->
-  <img src="https://skillicons.dev/icons?i=pytorch" width="40"/>
+  <img src="https://pytorch.org/assets/images/pytorch-logo.png" width="40" alt="PyTorch"/>
   <!-- TensorFlow -->
-  <img src="https://skillicons.dev/icons?i=tensorflow" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="40" alt="TensorFlow"/>
   <!-- R -->
-  <img src="https://skillicons.dev/icons?i=r" width="40"/>
+  <img src="https://www.r-project.org/logo/Rlogo.svg" width="40" alt="R"/>
   <!-- MySQL -->
-  <img src="https://skillicons.dev/icons?i=mysql" width="40"/>
+  <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" width="40" alt="MySQL"/>
   <!-- AWS -->
-  <img src="https://skillicons.dev/icons?i=aws" width="40"/>
+  <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" width="40" alt="AWS"/>
   <!-- Git -->
-  <img src="https://skillicons.dev/icons?i=git" width="40"/>
+  <img src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png" width="40" alt="Git"/>
   <!-- GitHub -->
-  <img src="https://skillicons.dev/icons?i=github" width="40"/>
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" alt="GitHub"/>
   <!-- Anaconda -->
-  <img src="https://skillicons.dev/icons?i=anaconda" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Anaconda_logo.png" width="40" alt="Anaconda"/>
   <!-- Excel -->
-  <img src="https://skillicons.dev/icons?i=excel" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013_logo.svg" width="40" alt="Excel"/>
   <!-- Tableau -->
-  <img src="https://skillicons.dev/icons?i=tableau" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Tableau_Logo.svg" width="40" alt="Tableau"/>
   <!-- Power BI -->
-  <img src="https://skillicons.dev/icons?i=powerbi" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Microsoft_Power_BI_Logo.svg" width="40" alt="Power BI"/>
 </p>
 
 ---

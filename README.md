@@ -75,15 +75,19 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YogeshYPatil&show_icons=true&theme=radical" alt="Yogesh's GitHub stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YogeshYPatil&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=YogeshYPatil&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=YogeshYPatil&show_icons=true&theme=radical" alt="Yogesh's GitHub stats"/>
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YogeshYPatil&layout=compact&theme=radical" alt="Top Languages"/>
+      </td>
+      <td>
+        <img src="https://streak-stats.demolab.com/?user=YogeshYPatil&theme=radical&hide_border=true" alt="GitHub Streak"/>
+      </td>
+    </tr>
+  </table>
 </p>
 
 ---

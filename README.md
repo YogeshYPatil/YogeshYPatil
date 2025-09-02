@@ -16,27 +16,45 @@
 - 💡 Open to collaborating on impactful projects in **business intelligence, reporting, and analytics**.  
 
 ---
-## 🔧 Languages and Tools  
+## 🔧 Languages and Tools
 
 <p align="center">
+  <!-- Python -->
   <img src="https://www.python.org/static/community_logos/python-logo.png" width="50" alt="Python"/>
+  <!-- Numpy -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg" width="50" alt="NumPy"/>
+  <!-- Pandas -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="50" alt="Pandas"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="50" alt="Matplotlib"/>
-  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="50" alt="Seaborn"/>
+  <!-- Matplotlib -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Matplotlib_logo.svg" width="50" alt="Matplotlib"/>
+  <!-- Seaborn -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Seaborn_logo.svg" width="50" alt="Seaborn"/>
+  <!-- Scikit-learn -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50" alt="Scikit-learn"/>
+  <!-- PyTorch -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" width="50" alt="PyTorch"/>
+  <!-- TensorFlow -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="50" alt="TensorFlow"/>
+  <!-- PySpark -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="50" alt="PySpark"/>
+  <!-- R -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="50" alt="R"/>
+  <!-- MySQL -->
   <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" width="50" alt="MySQL"/>
+  <!-- AWS -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="50" alt="AWS"/>
+  <!-- Git -->
   <img src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png" width="50" alt="Git"/>
+  <!-- GitHub -->
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="50" alt="GitHub"/>
+  <!-- Anaconda -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Anaconda_Logo.png" width="50" alt="Anaconda"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Excel_Logo.svg" width="50" alt="Excel"/>
+  <!-- Excel -->
+  <img src="https://img.icons8.com/color/48/000000/ms-excel.png" width="50" alt="Excel"/>
+  <!-- Tableau -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" width="50" alt="Tableau"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Power_BI_logo.svg" width="50" alt="Power BI"/>
+  <!-- Power BI -->
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="50" alt="Power BI"/>
 </p>
 
 ## 📬 Connect with Me  

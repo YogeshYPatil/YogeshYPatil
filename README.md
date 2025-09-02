@@ -33,7 +33,7 @@
   <!-- Pandas -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="40" alt="Pandas"/>
   <!-- Matplotlib -->
-  <img src="https://upload.wikimedia.org/commons/8/84/Matplotlib_icon.svg" width="40" alt="Matplotlib"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="40" alt="Matplotlib"/>
   <!-- Seaborn -->
   <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="40" alt="Seaborn"/>
   <!-- Scikit-learn -->
@@ -42,10 +42,12 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" width="40" alt="PyTorch"/>
   <!-- TensorFlow -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="40" alt="TensorFlow"/>
+  <!-- PySpark -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="80" alt="PySpark"/>
   <!-- R -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="40" alt="R"/>
   <!-- MySQL -->
-  <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" width="40" alt="MySQL"/>
+  <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" width="50" alt="MySQL"/>
   <!-- AWS -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="60" alt="AWS"/>
   <!-- Git -->
@@ -53,13 +55,13 @@
   <!-- GitHub -->
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" alt="GitHub"/>
   <!-- Anaconda -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Anaconda_Logo.png" width="40" alt="Anaconda"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Anaconda_Logo.png" width="40" alt="Anaconda"/>
   <!-- Excel -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013_logo.svg" width="40" alt="Excel"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Excel_Logo.svg" width="40" alt="Excel"/>
   <!-- Tableau -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" width="60" alt="Tableau"/>
   <!-- Power BI -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Microsoft_Power_BI_Logo.svg" width="60" alt="Power BI"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Power_BI_logo.svg" width="60" alt="Power BI"/>
 </p>
 
 ---

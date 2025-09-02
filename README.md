@@ -27,24 +27,31 @@
 ## 🔧 Languages and Tools  
 
 <p align="center">
+  <!-- Programming Languages -->
   <img src="https://www.python.org/static/community_logos/python-logo.png" width="50" alt="Python"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg" width="50" alt="NumPy"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="50" alt="Pandas"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="40" alt="R"/>
+
+  <!-- Libraries -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg" width="60" alt="NumPy"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="60" alt="Pandas"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="50" alt="Matplotlib"/>
-  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="50" alt="Seaborn"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50" alt="Scikit-learn"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" width="50" alt="PyTorch"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="50" alt="TensorFlow"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="50" alt="PySpark"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="50" alt="R"/>
-  <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" width="50" alt="MySQL"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="50" alt="AWS"/>
-  <img src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png" width="50" alt="Git"/>
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="80" alt="Seaborn"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="70" alt="Scikit-learn"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" width="60" alt="PyTorch"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="60" alt="TensorFlow"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="80" alt="PySpark"/>
+
+  <!-- Databases & Cloud -->
+  <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" width="70" alt="MySQL"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="80" alt="AWS"/>
+
+  <!-- Tools -->
+  <img src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png" width="70" alt="Git"/>
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="50" alt="GitHub"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Anaconda_Logo.png" width="50" alt="Anaconda"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Anaconda_Logo.png" width="70" alt="Anaconda"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Excel_Logo.svg" width="50" alt="Excel"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" width="50" alt="Tableau"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Power_BI_logo.svg" width="50" alt="Power BI"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" width="80" alt="Tableau"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Power_BI_logo.svg" width="70" alt="Power BI"/>
 </p>
 
 ---

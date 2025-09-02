@@ -41,32 +41,26 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" width="110" alt="Tableau"/>
   <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="100" alt="Power BI"/>
   </p>
+-----
 ## 📬 Connect with Me  
 
 <p align="center">
   <!-- Gmail -->
   <a href="mailto:yogeshpatil.stats@gmail.com" target="_blank">
-    <img src="https://github.com/YogeshYPatil/YogeshYPatil/blob/main/assets/icons/gmail.png" width="40" alt="Gmail"/>
+    <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" width="40" alt="Gmail"/>
   </a>
-  
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/yogesh-patil-1073ba201" target="_blank">
-    <img src="https://github.com/YogeshYPatil/YogeshYPatil/blob/main/assets/icons/linkedin.png" width="40" alt="LinkedIn"/>
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" alt="LinkedIn"/>
   </a>
-  
   <!-- GitHub -->
   <a href="https://github.com/YogeshYPatil" target="_blank">
-    <img src="https://github.com/YogeshYPatil/YogeshYPatil/blob/main/assets/icons/github.png" width="40" alt="GitHub"/>
+    <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" width="40" alt="GitHub"/>
   </a>
-  
   <!-- HackerRank -->
   <a href="https://www.hackerrank.com/profile/yogpatil1703" target="_blank">
-    <img src="https://github.com/YogeshYPatil/YogeshYPatil/blob/main/assets/icons/hackerrank.png" width="40" alt="HackerRank"/>
+    <img src="https://img.icons8.com/color/48/000000/hackerrank.png" width="40" alt="HackerRank"/>
   </a>
-</p>
-
-<p align="center">
-  <img alt="Coding" width="400" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif"/>
 </p>
 
 ---

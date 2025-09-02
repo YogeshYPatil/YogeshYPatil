@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm Yogesh Patil</h1>
 <p align="center">🎓 MSc Statistics Graduate | 📊 Data Analyst | 📈 Business Analyst</p>
 
-
+---
 
 ## 🌟 About Me  
 
-- 📊 Preparing for a career as a **Business Analyst** and **Data Analyst** with strong foundations in statistics and data analytics.  
-- 🐍 Proficient in **Python** for data analysis and predictive modeling.  
+- 📊 Aspiring **Data Analyst** & **Business Analyst** with strong foundations in **Statistics** and **Data Analytics**.  
+- 🐍 Skilled in **Python** for data analysis, visualization, and predictive modeling.  
 - 📈 Passionate about solving real-world problems by turning data into actionable insights.  
-- 🌱 Currently sharpening skills in **data visualization, SQL, Excel, Power BI, Tableau, predictive analytics, AWS, and PySpark**.  
+- 🌱 Currently sharpening skills in **SQL, Excel, Power BI, Tableau, predictive analytics, AWS, and PySpark**.  
 - 💡 Open to collaborating on impactful projects in **business intelligence, reporting, and analytics**.  
 
-
+---
 
 ## 🔧 Languages and Tools  
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas"/>
   <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
@@ -31,10 +31,23 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
 </p>
 
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YogeshYPatil&show_icons=true&theme=radical" alt="Yogesh's GitHub stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YogeshYPatil&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+
+---
 
 ## 📬 Connect with Me  
 
-<p align="left">
+<p align="center">
   <a href="mailto:yogeshpatil.stats@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>

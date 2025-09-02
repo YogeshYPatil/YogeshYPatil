@@ -29,37 +29,37 @@
   <!-- Python -->
   <img src="https://www.python.org/static/community_logos/python-logo.png" width="40" alt="Python"/>
   <!-- Numpy -->
-  <img src="https://numpy.org/images/logo.svg" width="40" alt="NumPy"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg" width="40" alt="NumPy"/>
   <!-- Pandas -->
-  <img src="https://pandas.pydata.org/static/img/pandas_white.svg" width="40" alt="Pandas"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="40" alt="Pandas"/>
   <!-- Matplotlib -->
-  <img src="https://matplotlib.org/stable/_static/images/logo2.svg" width="40" alt="Matplotlib"/>
+  <img src="https://upload.wikimedia.org/commons/8/84/Matplotlib_icon.svg" width="40" alt="Matplotlib"/>
   <!-- Seaborn -->
   <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="40" alt="Seaborn"/>
   <!-- Scikit-learn -->
-  <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="40" alt="Scikit-learn"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" alt="Scikit-learn"/>
   <!-- PyTorch -->
-  <img src="https://pytorch.org/assets/images/pytorch-logo.png" width="40" alt="PyTorch"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" width="40" alt="PyTorch"/>
   <!-- TensorFlow -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="40" alt="TensorFlow"/>
   <!-- R -->
-  <img src="https://www.r-project.org/logo/Rlogo.svg" width="40" alt="R"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="40" alt="R"/>
   <!-- MySQL -->
-  <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" width="40" alt="MySQL"/>
+  <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" width="40" alt="MySQL"/>
   <!-- AWS -->
-  <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" width="40" alt="AWS"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="60" alt="AWS"/>
   <!-- Git -->
-  <img src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png" width="40" alt="Git"/>
+  <img src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png" width="60" alt="Git"/>
   <!-- GitHub -->
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" alt="GitHub"/>
   <!-- Anaconda -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Anaconda_logo.png" width="40" alt="Anaconda"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Anaconda_Logo.png" width="40" alt="Anaconda"/>
   <!-- Excel -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013_logo.svg" width="40" alt="Excel"/>
   <!-- Tableau -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Tableau_Logo.svg" width="40" alt="Tableau"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" width="60" alt="Tableau"/>
   <!-- Power BI -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Microsoft_Power_BI_Logo.svg" width="40" alt="Power BI"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Microsoft_Power_BI_Logo.svg" width="60" alt="Power BI"/>
 </p>
 
 ---

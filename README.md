@@ -62,7 +62,7 @@
   </a>
   <!-- HackerRank -->
   <a href="https://www.hackerrank.com/profile/yogpatil1703" target="_blank">
-    <img src="https://raw.githubusercontent.com/YogeshYPatil/YogeshYPatil/main/icons8-hackerrank-48.png" alt="Logo" width="200"/>
+  <img src="https://github.com/YogeshYPatil/YogeshYPatil/blob/main/icons8-hackerrank-48.png" width="40" alt="HackerRank"/>
   </a>
 </p>
 ---

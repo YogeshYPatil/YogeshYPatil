@@ -62,10 +62,9 @@
   </a>
   <!-- HackerRank -->
   <a href="https://www.hackerrank.com/profile/yogpatil1703" target="_blank">
-    <img src="https://raw.githubusercontent.com/YogeshYPatil/YogeshYPatil/main/6765dc51a13e31531996cef3_logo-dark.png" alt="Logo" width="200"/>
+    <img src="https://raw.githubusercontent.com/YogeshYPatil/YogeshYPatil/main/icons8-hackerrank-48.png" alt="Logo" width="200"/>
   </a>
 </p>
-
 ---
 
 ## 🏆 GitHub Trophies  

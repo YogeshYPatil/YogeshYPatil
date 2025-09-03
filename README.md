@@ -43,7 +43,6 @@
   <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="100" alt="Power BI"/>
   </p>
   
----
 
 ## 📬 Connect with Me  
 

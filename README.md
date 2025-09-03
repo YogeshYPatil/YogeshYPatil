@@ -64,7 +64,6 @@
   <img src="https://github.com/YogeshYPatil/YogeshYPatil/blob/main/icons8-hackerrank-48.png" width="40" alt="HackerRank"/>
   </a>
 </p>
----
 
 ## 🏆 GitHub Trophies  
 
